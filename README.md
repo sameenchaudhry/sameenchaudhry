@@ -7,7 +7,7 @@
 
 - 🔭 Working on **Service and Product based Projects testing (Web ,Desktop and Mobile Apps)**
 
-- 🌱 I’m currently learning **GenAI,Machine Learning Model Testing,Selenium,Playwright,Appium**
+- 🌱 I’m currently learning **GenAI, Machine Learning Model Testing, Selenium, Playwright, Appium**
 
 - 💬 Expertise: **Manual Testing | Automation Testing | Api Testing | QA Practices | Communication**
 
