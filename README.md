@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GenAI, Machine Learning Model Testing, Selenium, Playwright, Appium**
 
-- 💬 Expertise: **Manual Testing | Automation Testing | Api Testing | QA Practices | Communication**
+- 💬 Expertise: **Manual Testing | Automation Testing | API Testing | QA Practices | Communication**
 
 - 📫 How to reach me **isameenchaudhry9@gmail.com**
 
