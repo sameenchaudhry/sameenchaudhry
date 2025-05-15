@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameen Chaudhry</h1>
-<h3 align="center">A passionate SQA Engineer (ISTQB® CTFL) from Pakistan</h3>
+<h3 align="center">SQA Engineer (ISTQB® CTFL)</h3>
 
 - ⚒ I’m currently working remotely **as Software QA Engineer.**
 
