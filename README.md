@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sameen Chaudhry</h1>
 <h3 align="center">SQA Engineer (ISTQB® CTFL)</h3>
 
-- ⚒ I’m currently working remotely **as Software QA Engineer.**
+- ⚒ I’m currently working as a ** Software QA Engineer.**
 
 - 👨‍💻 Tools I use Daily:  **Jira, Trello, Testrail, Postman**
 
 - 🔭 Working on **Service and Product based Projects testing (Web ,Desktop and Mobile Apps)**
 
-- 🌱 I’m currently learning **GenAI, Machine Learning Model Testing, Selenium, Playwright, Appium**
+- 🌱 I’m currently learning **GenAI, Machine Learning Model Testing, Playwright**
 
-- 💬 Expertise: **Manual Testing | Automation Testing | API Testing | QA Practices | Communication**
+- 💬 Expertise: **Manual Testing | Automation Testing | API Testing | QA Practices | AI Models Testing**
 
-- 📫 How to reach me **isameenchaudhry9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sameenchaudhry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameenchaudhry" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/isameenchaudhry9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="isameenchaudhry9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
